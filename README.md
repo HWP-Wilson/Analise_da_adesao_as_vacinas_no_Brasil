@@ -1,1 +1,3 @@
 # Analise_da_adesao_as_vacinas_no_Brasil
+As vacinas para combater a Covid-19 estão em suas fases finais. Quase disponiveis. No entanto, não existe ainda condições de vacinar toda a população mundial. Muitos paises estão planejando e organizando as metas de vacinação. O que é consenso mundial é a necessidade de imunizar primeiramente os idosos. No Brasil existe um movimento forte contra a obrigatoriedade da vacina e isso se reflete ao longo dos anos quando se analisa a Cobertura Vacinal. 
+O banco de dados utilizado foram retirados do site do DataSus. Informações sobre vacinas de BCG e Pneumonia. 
